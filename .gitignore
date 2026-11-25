@@ -1,0 +1,2 @@
+# Jenkins job backups may contain secrets
+jenkins-backup/
